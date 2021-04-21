@@ -11,6 +11,22 @@
 		01CCBFB42630B44700F696BB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CCBFB32630B44700F696BB /* ContentView.swift */; };
 		01CCBFB62630B44A00F696BB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01CCBFB52630B44A00F696BB /* Assets.xcassets */; };
 		01CCBFB92630B44A00F696BB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01CCBFB82630B44A00F696BB /* Preview Assets.xcassets */; };
+		01CCBFD22630B45A00F696BB /* meme10.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 01CCBFC22630B45A00F696BB /* meme10.jpeg */; };
+		01CCBFD32630B45A00F696BB /* memememe16.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 01CCBFC32630B45A00F696BB /* memememe16.jpeg */; };
+		01CCBFD42630B45A00F696BB /* meme1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 01CCBFC42630B45A00F696BB /* meme1.jpeg */; };
+		01CCBFD52630B45A00F696BB /* meme11.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 01CCBFC52630B45A00F696BB /* meme11.jpeg */; };
+		01CCBFD62630B45A00F696BB /* meme6.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 01CCBFC62630B45A00F696BB /* meme6.jpeg */; };
+		01CCBFD72630B45A00F696BB /* meme7.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 01CCBFC72630B45A00F696BB /* meme7.jpeg */; };
+		01CCBFD82630B45A00F696BB /* meme8.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 01CCBFC82630B45A00F696BB /* meme8.jpeg */; };
+		01CCBFD92630B45A00F696BB /* meme4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 01CCBFC92630B45A00F696BB /* meme4.jpeg */; };
+		01CCBFDA2630B45A00F696BB /* meme5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 01CCBFCA2630B45A00F696BB /* meme5.jpeg */; };
+		01CCBFDB2630B45A00F696BB /* meme9.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 01CCBFCB2630B45A00F696BB /* meme9.jpeg */; };
+		01CCBFDC2630B45A00F696BB /* meme14.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 01CCBFCC2630B45A00F696BB /* meme14.jpeg */; };
+		01CCBFDD2630B45A00F696BB /* meme2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 01CCBFCD2630B45A00F696BB /* meme2.jpeg */; };
+		01CCBFDE2630B45A00F696BB /* meme12.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 01CCBFCE2630B45A00F696BB /* meme12.jpeg */; };
+		01CCBFDF2630B45A00F696BB /* meme13.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 01CCBFCF2630B45A00F696BB /* meme13.jpeg */; };
+		01CCBFE02630B45A00F696BB /* meme3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 01CCBFD02630B45A00F696BB /* meme3.jpeg */; };
+		01CCBFE12630B45A00F696BB /* meme15.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 01CCBFD12630B45A00F696BB /* meme15.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +36,22 @@
 		01CCBFB52630B44A00F696BB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		01CCBFB82630B44A00F696BB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		01CCBFBA2630B44A00F696BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		01CCBFC22630B45A00F696BB /* meme10.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meme10.jpeg; sourceTree = "<group>"; };
+		01CCBFC32630B45A00F696BB /* memememe16.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = memememe16.jpeg; sourceTree = "<group>"; };
+		01CCBFC42630B45A00F696BB /* meme1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meme1.jpeg; sourceTree = "<group>"; };
+		01CCBFC52630B45A00F696BB /* meme11.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meme11.jpeg; sourceTree = "<group>"; };
+		01CCBFC62630B45A00F696BB /* meme6.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meme6.jpeg; sourceTree = "<group>"; };
+		01CCBFC72630B45A00F696BB /* meme7.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meme7.jpeg; sourceTree = "<group>"; };
+		01CCBFC82630B45A00F696BB /* meme8.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meme8.jpeg; sourceTree = "<group>"; };
+		01CCBFC92630B45A00F696BB /* meme4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meme4.jpeg; sourceTree = "<group>"; };
+		01CCBFCA2630B45A00F696BB /* meme5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meme5.jpeg; sourceTree = "<group>"; };
+		01CCBFCB2630B45A00F696BB /* meme9.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meme9.jpeg; sourceTree = "<group>"; };
+		01CCBFCC2630B45A00F696BB /* meme14.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meme14.jpeg; sourceTree = "<group>"; };
+		01CCBFCD2630B45A00F696BB /* meme2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meme2.jpeg; sourceTree = "<group>"; };
+		01CCBFCE2630B45A00F696BB /* meme12.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meme12.jpeg; sourceTree = "<group>"; };
+		01CCBFCF2630B45A00F696BB /* meme13.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meme13.jpeg; sourceTree = "<group>"; };
+		01CCBFD02630B45A00F696BB /* meme3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meme3.jpeg; sourceTree = "<group>"; };
+		01CCBFD12630B45A00F696BB /* meme15.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meme15.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +84,7 @@
 		01CCBFB02630B44700F696BB /* TestApp */ = {
 			isa = PBXGroup;
 			children = (
+				01CCBFC12630B45A00F696BB /* memes */,
 				01CCBFB12630B44700F696BB /* TestAppApp.swift */,
 				01CCBFB32630B44700F696BB /* ContentView.swift */,
 				01CCBFB52630B44A00F696BB /* Assets.xcassets */,
@@ -67,6 +100,29 @@
 				01CCBFB82630B44A00F696BB /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		01CCBFC12630B45A00F696BB /* memes */ = {
+			isa = PBXGroup;
+			children = (
+				01CCBFC22630B45A00F696BB /* meme10.jpeg */,
+				01CCBFC32630B45A00F696BB /* memememe16.jpeg */,
+				01CCBFC42630B45A00F696BB /* meme1.jpeg */,
+				01CCBFC52630B45A00F696BB /* meme11.jpeg */,
+				01CCBFC62630B45A00F696BB /* meme6.jpeg */,
+				01CCBFC72630B45A00F696BB /* meme7.jpeg */,
+				01CCBFC82630B45A00F696BB /* meme8.jpeg */,
+				01CCBFC92630B45A00F696BB /* meme4.jpeg */,
+				01CCBFCA2630B45A00F696BB /* meme5.jpeg */,
+				01CCBFCB2630B45A00F696BB /* meme9.jpeg */,
+				01CCBFCC2630B45A00F696BB /* meme14.jpeg */,
+				01CCBFCD2630B45A00F696BB /* meme2.jpeg */,
+				01CCBFCE2630B45A00F696BB /* meme12.jpeg */,
+				01CCBFCF2630B45A00F696BB /* meme13.jpeg */,
+				01CCBFD02630B45A00F696BB /* meme3.jpeg */,
+				01CCBFD12630B45A00F696BB /* meme15.jpeg */,
+			);
+			path = memes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,8 +182,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				01CCBFD92630B45A00F696BB /* meme4.jpeg in Resources */,
+				01CCBFE12630B45A00F696BB /* meme15.jpeg in Resources */,
+				01CCBFE02630B45A00F696BB /* meme3.jpeg in Resources */,
+				01CCBFD42630B45A00F696BB /* meme1.jpeg in Resources */,
+				01CCBFD72630B45A00F696BB /* meme7.jpeg in Resources */,
+				01CCBFDC2630B45A00F696BB /* meme14.jpeg in Resources */,
+				01CCBFDB2630B45A00F696BB /* meme9.jpeg in Resources */,
+				01CCBFD22630B45A00F696BB /* meme10.jpeg in Resources */,
+				01CCBFDD2630B45A00F696BB /* meme2.jpeg in Resources */,
+				01CCBFD62630B45A00F696BB /* meme6.jpeg in Resources */,
 				01CCBFB92630B44A00F696BB /* Preview Assets.xcassets in Resources */,
+				01CCBFD82630B45A00F696BB /* meme8.jpeg in Resources */,
+				01CCBFDA2630B45A00F696BB /* meme5.jpeg in Resources */,
+				01CCBFD52630B45A00F696BB /* meme11.jpeg in Resources */,
+				01CCBFDE2630B45A00F696BB /* meme12.jpeg in Resources */,
+				01CCBFD32630B45A00F696BB /* memememe16.jpeg in Resources */,
 				01CCBFB62630B44A00F696BB /* Assets.xcassets in Resources */,
+				01CCBFDF2630B45A00F696BB /* meme13.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
